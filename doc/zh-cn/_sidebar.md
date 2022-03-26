@@ -1,7 +1,7 @@
 * [快速开始](doc/zh-cn/example.md)
 * [选项配置](doc/zh-cn/option.md)
 * [事务支持](doc/zh-cn/transaction.md)
-* [数据组织之桶](doc/zh-cn/bucket.md)
+* [数据组织之桶](doc/zh-cn/buckets.md)
 * [数据组织之键值对](doc/zh-cn/entry.md)
 * [数据扫描](doc/zh-cn/scan.md)
 * [数据合并](doc/zh-cn/merge.md)
