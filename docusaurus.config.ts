@@ -122,19 +122,15 @@ const config: Config = {
             label: 'Blog', 
             position: 'left'
         },
-        {
-          to: '/about',
-          label: 'About',
-          position: 'left'
-        },
+        // It seems that we don't need this item temporarily
+        // {
+        //   to: '/about',
+        //   label: 'About',
+        //   position: 'left'
+        // },
         {
           to: '/community',
           label: 'Community',
-          position: 'left'
-        },
-        {
-          to: '/solutions',
-          label: 'Solutions',
           position: 'left'
         },
         {
